@@ -1,6 +1,6 @@
 const id_hojadatos = `1wjsn7SFBWQk-aWXVSJ7MWTguGx1wJa8Vt-Z5BI4f_Vc`;
 const apikey = `AIzaSyAP_fOHpPUB3o3UP64YtYGB6Kz83a5GF6s`;
-const rango = `Hoja 1!A1:B49`;
+const rango = `Hoja 1!A1:B59`;
 let tasas = [];
 let monedas = [];
 let simbolos = [
